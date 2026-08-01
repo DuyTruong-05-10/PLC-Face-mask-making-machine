@@ -14,7 +14,7 @@ The system is capable of controlling:
 ## ⚙️ System Components
 
 - PLC: Mitsubishi FX3U
-- HMI: HMI Mitsubishi GT1575-VNBA
+- HMI: HMI MCGS HMI TPC7062TD
 - Sensors: Photoelectric sensors, proximity sensors
 - Actuators:
   - Servo motor
