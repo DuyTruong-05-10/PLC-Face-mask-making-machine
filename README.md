@@ -33,8 +33,7 @@ The system is capable of controlling:
 
 ## 🏗️ System Architecture
 
-(Add system diagram image here)
-
+<img src="2.png" width="1050">
 
 ## 📷 Project Images
 
