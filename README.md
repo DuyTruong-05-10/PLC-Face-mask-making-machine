@@ -42,7 +42,11 @@ The system is capable of controlling:
 
 ## 🎥 Demo Video
 
-(Add YouTube/GitHub video link here)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=vh57gzqVm38">
+    <img src="https://img.shields.io/badge/▶%20Watch-Demo-red?style=for-the-badge" />
+  </a>
+</p>
 
 
 ## 🛠️ Technologies
