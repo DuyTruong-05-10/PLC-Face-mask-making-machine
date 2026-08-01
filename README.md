@@ -39,6 +39,9 @@ The system is capable of controlling:
 
 <img src="1.jpg" width="350">
 
+## 🛠️ HMI
+
+<img src="HMI.png" width="650">
 
 ## 🎥 Demo Video
 
