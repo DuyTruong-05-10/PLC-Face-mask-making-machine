@@ -38,7 +38,7 @@ The system is capable of controlling:
 
 ## 📷 Project Images
 
-(Add machine photos here)
+<img src="1.jpg" width="350">
 
 
 ## 🎥 Demo Video
