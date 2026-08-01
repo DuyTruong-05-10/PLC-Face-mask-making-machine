@@ -13,13 +13,14 @@ The system is capable of controlling:
 
 ## ⚙️ System Components
 
-- PLC: Siemens S7-1200
-- HMI: Siemens KTP series
+- PLC: Mitsubishi FX3U
+- HMI: HMI Mitsubishi GT1575-VNBA
 - Sensors: Photoelectric sensors, proximity sensors
 - Actuators:
   - Servo motor
   - Pneumatic cylinders
-  - Conveyor motor
+  - Pneumatic clamp mechanism
+  - Pneumatic cutting mechanism
 
 
 ## 🔧 Main Functions
