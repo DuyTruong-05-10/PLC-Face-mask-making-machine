@@ -43,6 +43,10 @@ The system is capable of controlling:
 
 <img src="HMI.png" width="650">
 
+## 🛠️ INPUT and OUTPUT
+
+<img src="IO.png" width="650">
+
 ## 🎥 Demo Video
 
 <p align="center">
