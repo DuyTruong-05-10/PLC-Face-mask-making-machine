@@ -31,6 +31,15 @@ The system is capable of controlling:
 - Error detection and safety handling
 
 
+## 🎥 Demo Video
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=vh57gzqVm38">
+    <img src="https://img.shields.io/badge/▶%20Watch-Demo-red?style=for-the-badge" />
+  </a>
+</p>
+
+
 ## 🏗️ System Architecture
 
 <img src="2.png" width="1050">
@@ -47,13 +56,6 @@ The system is capable of controlling:
 
 <img src="IO.png" width="650">
 
-## 🎥 Demo Video
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=vh57gzqVm38">
-    <img src="https://img.shields.io/badge/▶%20Watch-Demo-red?style=for-the-badge" />
-  </a>
-</p>
 
 
 ## 🛠️ Technologies
