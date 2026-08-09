@@ -43,6 +43,11 @@ The system is capable of controlling:
 ## 🔧 Bill of Materials 
 
 <img src="BOM.png" width="1050">
+<p align="center">
+  <a href="./Bill of Materials.xlsx" download>
+  <img src="https://img.shields.io/badge/Download-BOM.xlsx-blue?style=for-the-badge" alt="Download BOM">
+</a>
+</p>
 
 ## 🏗️ System Architecture
 
