@@ -40,6 +40,8 @@ The system is capable of controlling:
 </p>
 
 
+## 🔧 Bill of Materials 
+
 ## 🏗️ System Architecture
 
 <img src="2.png" width="1050">
