@@ -42,6 +42,8 @@ The system is capable of controlling:
 
 ## 🔧 Bill of Materials 
 
+<img src="BOM.png" width="1050">
+
 ## 🏗️ System Architecture
 
 <img src="2.png" width="1050">
