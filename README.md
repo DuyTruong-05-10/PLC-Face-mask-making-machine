@@ -49,6 +49,15 @@ The system is capable of controlling:
 </a>
 </p>
 
+## 🛠️ Electrical cabinet drawing
+
+<img src="Electrical cabinet drawing.png" width="1050">
+<p align="center">
+  <a href="./Electrical cabinet drawing.dwg" download>
+  <img src="https://img.shields.io/badge/Download-Electrical cabinet drawing.dwg-blue?style=for-the-badge" alt="Download">
+</a>
+</p>
+
 ## 🏗️ System Architecture
 
 <img src="2.png" width="1050">
