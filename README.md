@@ -58,6 +58,35 @@ The system is capable of controlling:
 </a>
 </p>
 
+## 🛠️ Power Supply Diagram
+
+<img src="Power Supply Diagram.png" width="1050">
+<p align="center">
+  <a href="./Diagram.dwg" download>
+  <img src="https://img.shields.io/badge/Download-Diagram.dwg-blue?style=for-the-badge" alt="Download">
+</a>
+</p>
+
+
+## 🛠️ PLC  Diagram
+
+<img src="PLC  Diagram.png" width="1050">
+<p align="center">
+  <a href="./Diagram.dwg" download>
+  <img src="https://img.shields.io/badge/Download-Diagram.dwg-blue?style=for-the-badge" alt="Download">
+</a>
+</p>
+
+## 🛠️ Driver Servo Diagram
+
+<img src="Driver Servo Diagram.png" width="1050">
+<p align="center">
+  <a href="./Diagram.dwg" download>
+  <img src="https://img.shields.io/badge/Download-Diagram.dwg-blue?style=for-the-badge" alt="Download">
+</a>
+</p>
+
+
 ## 🏗️ System Architecture
 
 <img src="2.png" width="1050">
