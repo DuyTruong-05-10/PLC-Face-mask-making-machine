@@ -86,6 +86,13 @@ The system is capable of controlling:
 </a>
 </p>
 
+## 🛠️ PLC_IO
+<img src="PLC_IO.png" width="1050">
+<p align="center">
+  <a href="./PLC_IO_Excel.xlsx" download>
+  <img src="https://img.shields.io/badge/Download-PLC_IO_Excel.xlsx-blue?style=for-the-badge" alt="Download">
+</a>
+</p>
 
 ## 🏗️ System Architecture
 
@@ -93,15 +100,11 @@ The system is capable of controlling:
 
 ## 📷 Project Images
 
-<img src="1.jpg" width="350">
+<img src="1.jpg" width="1050">
 
 ## 🛠️ HMI
 
-<img src="HMI.png" width="650">
-
-## 🛠️ INPUT and OUTPUT
-
-<img src="IO.png" width="1050">
+<img src="HMI.png" width="1050">
 
 
 
@@ -109,7 +112,7 @@ The system is capable of controlling:
 
 | Category | Tools |
 |---|---|
-| PLC Programming | TIA Portal |
-| Automation | Siemens S7-1200 |
-| HMI Design | WinCC |
+| PLC Programming | GXwork 2 |
+| Automation | Mitsubishi FX3U-80MT/ES |
+| HMI Design |
 | Control System | PLC Ladder Logic |
