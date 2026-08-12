@@ -101,7 +101,7 @@ The system is capable of controlling:
 
 ## 🛠️ INPUT and OUTPUT
 
-<img src="IO.png" width="650">
+<img src="IO.png" width="1050">
 
 
 
