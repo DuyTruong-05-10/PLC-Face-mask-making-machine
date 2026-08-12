@@ -126,6 +126,8 @@ The system is capable of controlling:
 | HMI Design | GT Designer3 |
 | Control System | PLC Ladder Logic |
 
-<h3 align="center">
-  Thank you for reading! 🚀
-</h3>
+
+
+<p align="center">
+    Thank you for reading! 🚀
+</p>
