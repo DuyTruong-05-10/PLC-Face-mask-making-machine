@@ -94,6 +94,15 @@ The system is capable of controlling:
 </a>
 </p>
 
+## 🛠️ PLC_Program
+<img src="PLC program.png" width="1050">
+<p align="center">
+  <a href="./PLC program.gxw" download>
+  <img src="https://img.shields.io/badge/Download-PLC program.gxw-blue?style=for-the-badge" alt="Download">
+</a>
+</p>
+
+
 ## 🏗️ System Architecture
 
 <img src="2.png" width="1050">
@@ -114,5 +123,9 @@ The system is capable of controlling:
 |---|---|
 | PLC Programming | GXwork 2 |
 | Automation | Mitsubishi FX3U-80MT/ES |
-| HMI Design |
+| HMI Design | GT Designer3 |
 | Control System | PLC Ladder Logic |
+
+<h3 align="center">
+  Thank you for reading! 🚀
+</h3>
